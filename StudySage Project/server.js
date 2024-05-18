@@ -346,7 +346,7 @@ app.get('/resource/bscit/semester1', (req, res) => {
 
 // ----------------------------------------  IMPERATIVE PROGRAMMING  ----------------------------------------
 //route for semester 1 IMPERATIVE PROGRAMMING chapters
-app.get('/resource/bscit/semester1/imperative programming', (req, res) => {
+app.get('/resource/bscit/semester1/imperative-programming', (req, res) => {
     res.render('../semesters/bscit/semester 1/imperative programming/imperative programming', { title: 'Imperative Programming', toggleID: 'toggle-button-bscit-IP' });
 });
 
