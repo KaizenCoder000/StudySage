@@ -1,1 +1,0 @@
-this includes files for resources of imperative programming subject
